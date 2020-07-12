@@ -1,0 +1,15 @@
+{
+    "name": "rioastamal/normal-php-using-lambda",
+    "description": "Menjalankan normal PHP website dengan Lambda",
+    "type": "project",
+    "require": {
+        "bref/bref": "^0.5.28"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rio Astamal",
+            "email": "rio@rioastamal.net"
+        }
+    ]
+}
